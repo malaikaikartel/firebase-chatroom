@@ -11,13 +11,13 @@ import { GoogleAuthProvider } from "firebase/auth";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBt-eE9YBGumQTH2D1aMGcEEa89AMGmQBM",
-  authDomain: "chakra-chat-8605d.firebaseapp.com",
-  projectId: "chakra-chat-8605d",
-  storageBucket: "chakra-chat-8605d.appspot.com",
-  messagingSenderId: "593574936062",
-  appId: "1:593574936062:web:6400758121638b639614af",
-  measurementId: "G-5KLHT2RQL2"
+  apiKey: "AIzaSyBy1fxtGHrXVFlHHYUVafny5SHV8rVCs6c",
+  authDomain: "redframe-77d5a.firebaseapp.com",
+  projectId: "redframe-77d5a",
+  storageBucket: "redframe-77d5a.appspot.com",
+  messagingSenderId: "806740627891",
+  appId: "1:806740627891:web:7025d1386396f9cdb3fbc6",
+  measurementId: "G-HSL5EMRL9W"
 };
 
 // Initialize Firebase
